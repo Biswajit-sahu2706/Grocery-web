@@ -38,14 +38,14 @@ if(!isset($user_id)){
       <div class="box">
          <img src="images/about-img-1.png" alt="">
          <h3>why choose us?</h3>
-         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, a quod, quis alias eius dignissimos pariatur laborum dolorem ad ullam iure, consequatur autem animi illo odit! Atque quia minima voluptatibus.</p>
+         <p>At Smart Bazar, we redefine the grocery experience by blending cutting-edge technology with the timeless value of farm-fresh quality. Our smart retail management system ensures that your favorite essentials are always in stock and easy to find, while our streamlined delivery process guarantees that freshness reaches your kitchen without delay. We believe that shopping for your everyday needs should be effortless, efficient, and affordable, which is why we’ve built a platform that prioritizes your convenience and health above all else. From our hand-picked organic produce to our secure, seamless checkout, we are committed to being your most trusted partner in building a healthier, smarter lifestyle alignItems</p>
          <a href="contact.php" class="btn">contact us</a>
       </div>
 
       <div class="box">
          <img src="images/about-img-2.png" alt="">
          <h3>what we provide?</h3>
-         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam, a quod, quis alias eius dignissimos pariatur laborum dolorem ad ullam iure, consequatur autem animi illo odit! Atque quia minima voluptatibus.</p>
+         <p>At Smart Bazar, we provide a curated selection of farm-fresh produce, premium pantry staples, and daily essentials, all managed through our intelligent retail system for a seamless shopping experience. We bridge the gap between quality and convenience, offering hand-picked organic goods and reliable delivery that fits perfectly into your modern lifestyle. Our goal is to ensure you have easy access to the healthiest ingredients with the efficiency of a truly smart store.less value of farm-fresh quality. Our smart retail management system ensures that your favorite essentials are always in stock and easy to find, while our streamlined delivery process guarantees that freshness reaches your kitchen without delay. We believe that shopping for your everyday needs should be effortless, efficient, and affordable, which is why we’ve built a platform that prioritizes your convenience and health above all else. From our hand-picked organic produce to our secure, seamless checkout, we are committed to being your most trusted partner in building a healthier, smarter lifestyle.</p>
          <a href="shop.php" class="btn">our shop</a>
       </div>
 
@@ -60,8 +60,8 @@ if(!isset($user_id)){
    <div class="box-container">
 
       <div class="box">
-         <img src="images/pic-1.png" alt="">
-         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et voluptates sit earum, neque non cupiditate amet deserunt aperiam quas ex.</p>
+         <img src="images/biju.png" alt="">
+         <p>My experience at Smart Bazar has been outstanding. The quality of the products is exceptional, and the delivery service is prompt and reliable.</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -69,12 +69,12 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Biswajit Sahu</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-2.png" alt="">
-         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et voluptates sit earum, neque non cupiditate amet deserunt aperiam quas ex.</p>
+         <img src="images/sibu.png" alt="">
+         <p>"I love the organic selection. It's rare to find such high-quality produce at these prices."</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -82,12 +82,12 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>Subhankar Dash</h3>
       </div>
 
       <div class="box">
-         <img src="images/pic-3.png" alt="">
-         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et voluptates sit earum, neque non cupiditate amet deserunt aperiam quas ex.</p>
+         <img src="images/susmita.png" alt="">
+         <p>"The customer service at Smart Bazar is exceptional. They go above and beyond to ensure a satisfying shopping experience."</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -95,12 +95,12 @@ if(!isset($user_id)){
             <i class="fas fa-star"></i>
             <i class="fas fa-star-half-alt"></i>
          </div>
-         <h3>john deo</h3>
+         <h3>susmita sahu</h3>
       </div>
 
       <div class="box">
          <img src="images/pic-4.png" alt="">
-         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et voluptates sit earum, neque non cupiditate amet deserunt aperiam quas ex.</p>
+         <p>"The convenience of shopping at Smart Bazar cannot be overstated. I can order my groceries with just a few clicks and have them delivered right to my doorstep."</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -113,7 +113,7 @@ if(!isset($user_id)){
 
       <div class="box">
          <img src="images/pic-5.png" alt="">
-         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et voluptates sit earum, neque non cupiditate amet deserunt aperiam quas ex.</p>
+         <p>"I've been a loyal customer of Smart Bazar for over a year now, and I'm consistently impressed by the quality and variety of products available."</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -126,7 +126,7 @@ if(!isset($user_id)){
 
       <div class="box">
          <img src="images/pic-6.png" alt="">
-         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et voluptates sit earum, neque non cupiditate amet deserunt aperiam quas ex.</p>
+         <p>"The products at Smart Bazar are always fresh and of the highest quality. I never have to worry about the freshness of my groceries."</p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>

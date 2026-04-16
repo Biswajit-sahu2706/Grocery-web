@@ -100,9 +100,9 @@ if(isset($_POST['add_to_cart'])){
    <section class="home">
 
       <div class="content">
-         <span>don't panic, go organice</span>
+         <span>Freshness delivered to your doorstep</span>
          <h3>Reach For A Healthier You With Organic Foods</h3>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto natus culpa officia quasi, accusantium explicabo?</p>
+         <p>Experience the future of grocery shopping. From farm-fresh produce to household staples, manage your pantry with ease and efficiency.</p>
          <a href="about.php" class="btn">about us</a>
       </div>
 
